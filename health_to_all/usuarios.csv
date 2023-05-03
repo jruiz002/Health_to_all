@@ -1,0 +1,4 @@
+Nombre,Correo,Password,Telefono,Peso,Altura,Edad,Alergias,Complejidad_receta,Costo_receta,Tiempo_de_comida
+Jose Ruiz,jose@gmail.com,123,123,1,1,1,Carnes,Dificil,100,Desayuno
+Prueba,prueba@gmail.com,123,1,1,1,1,Carnes,Facil,1,Desayuno
+Juan,juan@gmail.com,123,,,,,,,,
